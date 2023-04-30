@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Blaze-create
 - 👀 I’m interested in web programming
-- 🌱 I’m currently learning javascript, MySQL, PHP,jQuery
+- 🌱 know java, c#, python, javascript
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
